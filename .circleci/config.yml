@@ -28,7 +28,7 @@ jobs:
           name: Setup git user
           command: |
             git config --global user.email "Narumol_jeenjuhepan@gmail.com"
-            git config --global user.name "Narumol Jeenjuhepan"
+            git config --global user.name "Narumol Jeenjuhephan"
       - run:
           name: Environment variables
           command: |
